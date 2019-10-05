@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #fff;
+}
+
+a.nav-link {
+    color: #fff;
+
+}
+
+li {
+    padding-left: 22px;
+}
+
+span.border {
+    border: 1px solid;
+    border-radius: 5px;
+    box-sizing: border-box;
+    height: 60px;
+    width: 185px;
+    background: rgba(88, 175, 147, 0.92);
+    color: #fff;
+    padding: 6px 15px 6px 16px;
+}
+
+.color-edit {
+    color: #fff;
+}
+
+.wrap {
+    background: rgba(0, 0, 1, 0.92);
+}
+
+.eddit-colors {
+    color: rgba(88, 175, 147, 0.92);
+}
+
+thead.thead-dark {
+    background: rgba(245, 245, 245, 0.92);
+}
+
+.nav-justified.edid-buttoum {
+    margin-top: 20px;
+}
+
+.container.col-lg-6.edit-witdh {
+    width: 80%;
+    margin-top: 45px;
+    padding-left: 15%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container.col-lg-4.edit-witdh-asside {
+    width: 20%;
+    /* margin-top: 50px; */
+}
+
+footer {
+    margin-top: 60%;
+}
+
+.footer-wrap {
+    display: flex;
+    justify-content: space-around;
+    background: black;
+    width: 100%;
+    padding: 20px;
+}
+
+p {
+    color: #fff;
+}
+
+.background-blue {
+    fill: #fff;
+}
